@@ -1,0 +1,20 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\bin\Debug\ButtonAnnim.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\bin\Debug\ButtonAnnim.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\bin\Debug\ButtonAnnim.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\ButtonAnnim\obj\Debug\ButtonAnnim.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\bin\Debug\ButtonAnnim.exe
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\bin\Debug\ButtonAnnim.pdb
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\bin\Debug\ButtonAnnim.xml
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.Form1.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.Resources.resources
+C:\Users\lenovo\eclipse\Documents\Visual Studio 2008\Projects\ButtonAnnim\ButtonAnnim\obj\Debug\ButtonAnnim.vbproj.GenerateResource.Cache
